@@ -1,0 +1,4 @@
+archive
+.virtual_documents
+.ipynb_checkpoints
+venv
